@@ -20,8 +20,8 @@ In short this project is about creating a member registry for a boat club. The a
    5. Select a boat and see the detailed information about the boat. You should then be able to:
       1. delete the boat
 4. You should be able to quit the application
-5. The registry information should be loaded from a file `registry.data` when the application starts. See the [example file](registry.data) for the format of the file.
-6. The registry information should be saved to a file `registry.data` when the application exits. See the [example file](registry.data) for the format of the file.
+5. The registry information should be loaded from a file `registry.data` when the application starts.
+6. The registry information should be saved to a file `registry.data` when the application exits.
 7. There should be at least one class diagram showing the application structure with all classes and correct relations between the classes. You do not need to add every operation in the class diagram.
 8. Basic error handling, i.e. it should not crash. No need for user friendly error messages.
 
