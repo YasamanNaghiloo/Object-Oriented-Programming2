@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CodeQualityTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-28T00:15:26" hostname="LAPTOP-R4LPFA81" time="0.045">
+  <properties/>
+  <testcase name="codeQuality()" classname="CodeQualityTests" time="0.045"/>
+  <system-out><![CDATA[0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/App.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/Boat.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/BoatClub.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/FileManager.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/Member.java
+0 CheckStyle Issues in D:/Programming/1DV502/Assignments/assignment-4/app/src/main/java/assignment4/Registration.java
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

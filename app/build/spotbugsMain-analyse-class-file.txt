@@ -1,0 +1,6 @@
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\App.class
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\Boat.class
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\BoatClub.class
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\FileManager.class
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\Member.class
+D:\Programming\1DV502\Assignments\assignment-4\app\build\classes\java\main\assignment4\Registration.class

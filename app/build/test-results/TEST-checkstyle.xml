@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuite package="org.checkstyle" time="0" tests="6" errors="0" name="checkstyle">
+<testcase time="0" name="assignment4/App.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignment4/Boat.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignment4/BoatClub.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignment4/FileManager.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignment4/Member.java" classname="CheckStyle Issues">
+</testcase><testcase time="0" name="assignment4/Registration.java" classname="CheckStyle Issues">
+</testcase></testsuite>
