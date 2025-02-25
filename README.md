@@ -1,6 +1,4 @@
-# Object-Oriented-Programming2
-
-##  The Boat Club
+# The Boat Club
 In short this project is about creating a member registry for a boat club. The application should be runnable as a simple console application with a menu and the information in the registry should be loaded and saved to a file.
 
 
